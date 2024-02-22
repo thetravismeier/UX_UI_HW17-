@@ -1,3 +1,62 @@
-body{
-    background-color: pink;
+body {
+    /* Styles for the body element */
+
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+nav ul {
+    width: 72%;
+    padding: 1%;
+    background-color: #373738;
+    color: white;
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
+    padding: 30px;
+    width: 100%;
+    display: flex;
+
+}
+
+/* Choose a more specific and meaningful class name */
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+
+.herolmg {
+    height: 600px;
+    padding: 25px;        
+}
+
+p {
+    width: 500px;
+    margin: 0 auto;
+}
+
+footer ul {
+    background-color: #373738;
+    color: white;
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
+    padding: 30px;
+    width: 100%;
+
+
+    
+}
+
 }
